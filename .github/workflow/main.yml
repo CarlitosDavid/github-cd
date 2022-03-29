@@ -14,4 +14,4 @@ jobs:
           with:
             heroku_api_key: ${{secrets.HEROKU_API_KEY}}
             heroku_app_name: "lit-reaches-22729"
-            heroku_email: "Contrerascarl@ymail.com"
+            heroku_email: "contrerascarl@ymail.com"
